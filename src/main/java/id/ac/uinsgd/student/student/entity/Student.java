@@ -49,6 +49,5 @@ public class Student {
     @NotEmpty(message = "Jurusan is required")
     @Column(name = "jurusan", nullable = false)
     private String jurusan;
-
-    public Student(){}
+    
 }
