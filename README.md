@@ -1,5 +1,7 @@
 # PBO-student-crud-web
 
+HEROKU LINK : https://studentweb9.herokuapp.com/
+
 POST MAPPING
 ![POST](img/PostMapping.png) "Menambah Data Student"
 
@@ -52,7 +54,8 @@ EDIT STUDENT SUCCESS LAYOUT
 REMOVE SUCCESS LAYOUT
 ![INDEX](img/3-RemoveSuccess.png) "Tampilan REMOVE SUCCESS LAYOUT"
 
--- Heroku (https://studentweb9.herokuapp.com/)
+
+-- HEROKU (https://studentweb9.herokuapp.com/)
 
 INDEX
 ![INDEX](img/heroku-awal.png) "INDEX"
