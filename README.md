@@ -53,4 +53,14 @@ REMOVE SUCCESS LAYOUT
 ![INDEX](img/3-RemoveSuccess.png) "Tampilan REMOVE SUCCESS LAYOUT"
 
 -- Heroku (https://studentweb9.herokuapp.com/)
+
+INDEX
 ![INDEX](img/heroku-awal.png) "INDEX"
+
+CREATE
+![CREATE](img/heroku-create.png) "CREATE"
+![CREATE](img/heroku-create-succ.png) "CREATE SUCCESS"
+
+EDIT
+![EDIT](img/heroku-edit.png) "EDIT"
+![EDIT](img/heroku-edit-succ.png) "EDIT SUCCESS"
