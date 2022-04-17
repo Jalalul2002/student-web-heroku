@@ -50,4 +50,5 @@ public class Student {
     @Column(name = "jurusan", nullable = false)
     private String jurusan;
 
+    public Student(){}
 }
